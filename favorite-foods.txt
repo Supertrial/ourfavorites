@@ -1,6 +1,15 @@
-Hello
-Avengers
-1
-2
+pizza
+Yogurt
+Hamburger
+spaghetti
+pancakes
+ice cream
+wings
 
-3
+salad
+pineapple
+pastes
+tamale
+pecan pie
+tuna sandwich
+beans with rice
